@@ -1,2 +1,2 @@
 # sebms
-sebms project mobile app and server side code
+sebms project server side with spring boot
